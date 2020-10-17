@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Reversi2\Reversi2\obj\Debug\Reversi2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Reversi2\Reversi2\obj\Debug\Reversi2.Properties.Resources.resources
+C:\Users\User\source\repos\Reversi2\Reversi2\obj\Debug\Reversi2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Reversi2\Reversi2\obj\Debug\Reversi2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Reversi2\Reversi2\bin\Debug\Reversi2.exe.config
+C:\Users\User\source\repos\Reversi2\Reversi2\bin\Debug\Reversi2.exe
+C:\Users\User\source\repos\Reversi2\Reversi2\bin\Debug\Reversi2.pdb
+C:\Users\User\source\repos\Reversi2\Reversi2\obj\Debug\Reversi2.exe
+C:\Users\User\source\repos\Reversi2\Reversi2\obj\Debug\Reversi2.pdb
